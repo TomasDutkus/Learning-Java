@@ -1,5 +1,1 @@
 vienas,du,  trys , nulis
-|vienas|
-|du|
-|trys|
-|nulis|
