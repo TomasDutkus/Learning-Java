@@ -1,4 +1,4 @@
-package lt.baltictalents.lecture12.a;
+package lt.baltictalents.nr1.a;
 
 public class PointMain {
 

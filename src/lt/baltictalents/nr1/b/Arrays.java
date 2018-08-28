@@ -1,4 +1,4 @@
-package lt.baltictalents.lecture12.b;
+package lt.baltictalents.nr1.b;
 
 import java.util.stream.IntStream;
 
