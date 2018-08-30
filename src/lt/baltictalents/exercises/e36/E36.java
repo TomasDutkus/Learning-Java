@@ -12,7 +12,7 @@ class E36 {
         System.out.println(wordAppend("a", "", "a")); // a
     }
 
-    private static String wordAppend(String... strings) {
+    static String wordAppend(String... strings) {
         long count = Arrays.stream(strings).filter(s -> s.equals("a")).count() / 2;
 //        String str = "";
 //        for (int i = 0; i < count; i++) {

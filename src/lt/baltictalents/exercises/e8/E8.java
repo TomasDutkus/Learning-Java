@@ -10,7 +10,7 @@ class E8 {
         System.out.println(unlucky1(null)); //false
     }
 
-    private static boolean unlucky1(int[] arr) {
+    static boolean unlucky1(int[] arr) {
         if (arr == null || arr.length < 2) {
             return false;
         }
