@@ -25,7 +25,7 @@ import static java.util.stream.Collectors.summingDouble;
 
 public class SalaryMain {
     public static void main(String[] args) {
-        Employee maksas = new Employee("Maksas");
+ /*       Employee maksas = new Employee("Maksas");
         Employee zivile = new Employee("Zivile");
         List<Salary> salaries = new ArrayList<>();
         salaries.add(zivile, new Salary(zivile, 20d)); // saldainiams
@@ -42,6 +42,6 @@ public class SalaryMain {
                         summingDouble(Salary::getSalary)))
                 .entrySet().stream()
                 .sorted(comparingByValue())
-                .forEach(entry -> System.out.println(entry.getKey() + ": " + entry));
+                .forEach(entry -> System.out.println(entry.getKey() + ": " + entry)); */
     }
 }
